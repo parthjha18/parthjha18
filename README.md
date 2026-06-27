@@ -1,15 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Parth%20&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Full-Stack%20%7C%20SWE%20Intern%20Seeker&descAlignY=56&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Parth&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Full-Stack%20%7C%20SWE%20Intern%20Seeker&descAlignY=56&descAlign=50" width="100%" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&width=500&lines=Hi+there%2C+I'm+Parth+%F0%9F%91%8B;Java+%7C+Full-Stack+Developer;345%2B+LeetCode+Problems+Solved;Building+Scalable+Real-World+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&width=500&lines=Hi+there%2C+I'm+Parth+%F0%9F%91%8B;Java+%7C+Full-Stack+Developer;330%2B+LeetCode+Problems+Solved;Building+Scalable+Real-World+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/parth1810"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/parthjha_123/"><img src="https://img.shields.io/badge/LeetCode-345%2B%20Solved-FFA116?logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/parthjha_123/"><img src="https://img.shields.io/badge/LeetCode-330%2B%20Solved-FFA116?logo=leetcode&logoColor=white" /></a>
   <a href="https://book-rental-service-ten.vercel.app"><img src="https://img.shields.io/badge/BookShare-Live-00C7B7?logo=vercel&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/OCI-Foundations%202025-F80000?logo=oracle&logoColor=white" />
- <img src="https://komarev.com/ghpvc/?username=parthjha18&color=6C63FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=parthjha18&color=6C63FF&style=flat" />
 </p>
 
 ---
@@ -22,11 +22,11 @@
   "role": "Pre-final Year ISE Student | SWE Intern Seeker",
   "college": "CMRIT Bengaluru (VTU), B.E. ISE — Graduating 2027",
   "primary_language": "Java",
-  "stack": ["MERN","Python/Flask", "FastAPI","REST API"],
+  "stack": ["MERN", "Python/Flask", "FastAPI", "REST API"],
   "leetcode": "330+ solved | 100 Days Badge 2026 | 50 Days Badge 2026 & 2025",
   "hackathons": ["Smart India Hackathon 2024", "GHCI GenAI Hackathon (Round 2)"],
   "hobbies": ["Cricket 🏏", "Music 🎵"],
-  "currently_learning": "System Design, DSA Hards, SQL Optimization",
+  "currently_learning": "System Design, DSA Hards, SQL Optimization"
 }
 ```
 
@@ -72,9 +72,8 @@
 | Project | Description | Tech Stack | Live |
 |---------|-------------|------------|------|
 | 📚 **[BookShare](https://github.com/parthjha18/book-rental-service)** | Location-based peer-to-peer book rental platform with auth, geosearch & rental management | MERN, Docker, MongoDB Atlas, Render, Vercel | [🔗 Live](https://book-rental-service-ten.vercel.app) |
-| 🤖 **DuCO-Agent** | Agentic AI system for insurance dual-coverage coordination — multi-model routing with vision-language OCR and automated letter generation | Node.js, FastAPI, React, LangChain | — |
-| 🏠 **PG Accommodation Recommender** | ML-powered PG recommendation using Weighted Euclidean Distance, RoBERTa sentiment analysis & Bayesian trust scoring | Python, Flask, RapidFuzz, HuggingFace | — |
-| 💧 **Smart Water Bottle (Patent)** | AI-powered hydration tracking system — patented IoT + ML solution for real-time health monitoring | IoT, ML, Embedded Systems | — |
+| 🤖 **[DuCO-Agent](https://github.com/parthjha18/duco-agent-ai-assessment)** | Agentic AI system for insurance dual-coverage coordination — multi-model routing with vision-language OCR and automated letter generation | Node.js, FastAPI, React, LangChain | — |
+| 🏠 **[PG Accommodation Recommender](https://github.com/parthjha18/PG-Recommendation)** | ML-powered PG recommendation using Weighted Euclidean Distance, RoBERTa sentiment analysis & Bayesian trust scoring | Python, Flask, RapidFuzz, HuggingFace | — |
 
 ---
 
@@ -100,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/345%2B%20Problems%20Solved-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/330%2B%20Problems%20Solved-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/100%20Days%20Badge-2026-gold?logo=leetcode&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/50%20Days%20Badge-2025%20%26%202026-orange?logo=leetcode&logoColor=white&style=for-the-badge" />
 </p>
@@ -113,13 +112,10 @@
   <img src="https://raw.githubusercontent.com/parthjha18/parthjha18/output/snake.svg" alt="Snake animation" />
 </p>
 
-> ⚠️ The snake animation needs a one-time GitHub Actions setup — see below.
-
 ---
 
 ## 🎖️ Achievements
 
-- 🏅 **Patent Holder** — AI-powered Smart Water Bottle System
 - 🏆 **Smart India Hackathon 2024** participant
 - 🥈 **GHCI GenAI Hackathon** — reached Round 2
 - ☁️ **Oracle Cloud Infrastructure 2025 Foundations Associate** certified
@@ -131,11 +127,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/parth1810">
-   <img src="https://img.shields.io/badge/LinkedIn-Parth-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Parth-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   &nbsp;
   <a href="mailto:parthjha4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-parthjha4@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/parthjha_123/">
